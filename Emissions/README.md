@@ -1,6 +1,6 @@
 ## Emissions Queries
 WELCOME!~<br>
-The following queries are done in Python using Psycopg2. The databases setup are Postresql.
+The following queries are done in Python using Psycopg2. The databases setup are Postresql.<br>
 The instructions are straight forward.<br>
 1. Make sure to change the parameters in conn = DB.connect("dbname='Mechaman'") to have the name of your database (instead of Mechaman) in Load.py and Query.py.<br>
 2. Make sure no databases exist with the ones mentioned.<br>
