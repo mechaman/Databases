@@ -1,3 +1,4 @@
+# Author: Julien Hoachuck
 import psycopg2 as DB
 import csv
 
