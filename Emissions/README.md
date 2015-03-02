@@ -7,3 +7,5 @@ The instructions are straight forward.<br>
 3. Run the file Load.py with the following command: "python Load.py"<br>
 4. Now your databases should be populated with tables Trip, Vehicle, etc.<br> 
 5. To run the queries , run "python Query.py"<br>
+
+The purpose of each query can be found above each query in the Query.py file. 
